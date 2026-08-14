@@ -3,6 +3,7 @@
 Computer Engineering student at FIUBA, Buenos Aires.
 
 I'm into embedded systems and robotics — that's where I want to end up 🦾
+
 Right now I'm building my path getting into QA Automation,
 because you have to start somewhere and I like breaking things on purpose...
 
