@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Cami 😊
 
-<!--
-**CCam-01/CCam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at FIUBA, Buenos Aires.
 
-Here are some ideas to get you started:
+I'm into embedded systems and robotics — that's where I want to end up 🦾
+Right now I'm building my path getting into QA Automation,
+because you have to start somewhere and I like breaking things on purpose...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work with
+
+- **Languages:** Python, C, Javascript
+- **Tools:** Node.js, Express, PostgreSQL, Docker, Git, Linux, Postman
+- **Learning:** Playwright, pytest, test automation
+
+---
+
+## A bit more
+
+- 📍 Buenos Aires, Argentina
+- 🌱 Former illustrator, musician & officer, now writing code instead
+
+---
+
+*Still learning. Always curious.*
