@@ -19,6 +19,7 @@ because you have to start somewhere and I like breaking things on purpose...
 
 ## A bit more
 
+- 🛰️ I love space, Jupiter especially
 - 📍 Buenos Aires, Argentina
 - 🌱 Former illustrator, musician & officer, now writing code instead
 
